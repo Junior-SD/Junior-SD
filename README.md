@@ -22,13 +22,19 @@ GitHub Repository: https://github.com/Junior-SD/Junior.github.io
 Technologies Used: HTML, CSS/JavaScript, Jekyll, Custom Domain, Content Management Systems (CMS), SEO 
 
 Skills
+
 💻 Programming Languages: Python, Java, JavaScript, C#, C++, SQL, Ruby, PHP, e.t.c
+
 🛠️ Tools and Technologies: Git, VS-Code,Pycharm, HTML, CSS, Java Script,React, Angular, Node.js e.t.c
+
 🧠 Skills: Programming Languages- Python, JavaScript, Java, C++, C#, Ruby, Swift, PHP. Web Development:HTML/CSS,avaScript,React, Angular, or Vue.js.Databases:MySQL, PostgreSQL, MongoDB.Version Control:Git
 
 Connect with Me
+
 📫 You can reach me via email at juniormwadime01@gmail.com
+
 🐦 Follow me on Twitter: @_LawrenceJunior
+
 💼 Connect with me on Linked: https://www.linkedin.com/in/junior-mwadime-m-a96bab171/
 
 Fun Fact.
