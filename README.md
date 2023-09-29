@@ -1,11 +1,11 @@
-Junior Mwadime Muema 
-
-Hi there! 👋 I'm Junior an Aspiring Software Engineer | Code Enthusiast | Continuous Learner and I'm on an exciting journey to become a skilled Software Engineer. Welcome to my GitHub profile.
+Hi there! 👋 I'm Junior an Aspiring Software Engineer | Code Enthusiast | Continuous Learner and I'm on an exciting journey to become a skilled Software Engineer. 
+Welcome to my GitHub profile.
 
 About Me
 🌟 I'm passionate about software development, data science, machine learning].
 💼 I'm currently working as a Freelancer.
 🌍 I love to explore new technologies and contribute to open-source projects.
+
 My Work
 Here are some of the projects I've worked on:
 
