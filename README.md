@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Junior an Aspiring Software Engineer | Code Enthusiast | Continuous Learner and I'm on an exciting journey to become a skilled Software Engineer. 
+Hi there! 👋 I'm Junior a Full Stack Software Engineer currently working on Front End Projects| Code Enthusiast | Continuous Learner and I'm on an exciting journey to become a skilled Software Engineer. 
 Welcome to my GitHub profile.
 
 About Me
