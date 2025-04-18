@@ -35,7 +35,7 @@ Connect with Me
 
 🐦 Follow me on Twitter: @_LawrenceJunior
 
-💼 Connect with me on Linked: https://www.linkedin.com/in/junior-mwadime-m-a96bab171/
+💼 Connect with me on Linked: https://www.linkedin.com/in/junior-mwadime-7b716635b/
 
 Fun Fact.
 Did you know that the first computer programmer in history was a woman named Ada Lovelace? She lived in the 19th century and is often credited with writing the world's first algorithm intended to be processed by a machine. Her work was on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Ada Lovelace's contributions to computing are celebrated every year on Ada Lovelace Day, an event aimed at raising the profile of women in science, technology, engineering, and mathematics (STEM).
